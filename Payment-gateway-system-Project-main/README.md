@@ -138,18 +138,6 @@ If scaled to high throughput:
 ### Merchant Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-## 🎥 Demo Video
-
-A complete demo video showcasing:
-
-* Health check
-* Order creation
-* Hosted checkout
-* Successful payment
-* Dashboard & transactions
-
-📌 *GitHub repository link is available in the video description.*
-
 ---
 
 ## 🙌 Conclusion
